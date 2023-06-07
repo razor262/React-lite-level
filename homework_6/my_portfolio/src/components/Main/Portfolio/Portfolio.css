@@ -1,0 +1,27 @@
+.four__screen {
+    background-color: #F6F6F6; 
+    margin: 0 auto; 
+    max-width: 1100px; 
+    padding-bottom: 70px; 
+    display: flex; 
+    flex-direction: column;
+}  
+
+.four__screen h3 {
+    padding-top: 100px;
+}  
+
+.four__screen img {
+    margin: 0 auto; 
+    width: 70%; 
+    padding-top: 50px;
+}  
+
+.four__screen p {
+    padding-top: 30px; 
+    cursor: pointer; 
+    color: #070707;   
+    font-size: 18px;  
+    line-height: 22px;  
+    text-decoration-line: underline;
+}

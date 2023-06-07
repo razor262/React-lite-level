@@ -1,0 +1,22 @@
+.header {
+    margin: 0 auto; 
+    max-width: 1100px; 
+    color: grey;   
+    
+}  
+
+.header__links {
+    margin-top: 33px; 
+    margin-bottom: 32px;   
+    display: flex;  
+    justify-content: space-around; 
+    list-style-type: none;  
+}  
+
+.aktive { 
+    color: black;
+}  
+
+.header__hileate {
+    border: 1px solid gray;
+}

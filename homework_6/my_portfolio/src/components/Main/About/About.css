@@ -1,0 +1,19 @@
+.seconds__screens {
+    width: 100%;  
+}  
+
+.seconds__screens h3 {
+    padding-top: 120px;   
+    font-size: 34px;  
+    line-height: 42px;  
+    color: #070707;
+}  
+
+.seconds__screens p {
+    padding-top: 18px; 
+    padding-bottom: 107px; 
+    margin: 0 auto; 
+    font-size: 18px; 
+    line-height: 22px; 
+    width: 485px;
+}

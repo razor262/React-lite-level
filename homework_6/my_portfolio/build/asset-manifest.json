@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f00391a.css",
+    "main.js": "/static/js/main.11ab1a23.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/group_21.png": "/static/media/group_21.a41edb7c6203106b62e9.png",
+    "static/media/rebook_man.png": "/static/media/rebook_man.d642d537d08712561abf.png",
+    "static/media/Group_2.svg": "/static/media/Group_2.5c1a5f94a4f95aeb6341f399188affe5.svg",
+    "static/media/rebook_camera.png": "/static/media/rebook_camera.02e10b9d532f95f777ce.png",
+    "static/media/rebook_girl.png": "/static/media/rebook_girl.206bd5e971e71ee8e4b1.png",
+    "static/media/Group_1.svg": "/static/media/Group_1.cb9a90cdca855ed12f67bded92f23189.svg",
+    "static/media/Group_3.svg": "/static/media/Group_3.9ef5137a7eacf30758b3a4cd39a09df3.svg",
+    "static/media/Group_4.svg": "/static/media/Group_4.862322fffe0c02bd403473fcbb178d4b.svg",
+    "static/media/Group_10.svg": "/static/media/Group_10.703a0ac6692fabbc6c6c0eb84657e374.svg",
+    "static/media/Group_9.svg": "/static/media/Group_9.5005f7e9a5bf18e8fcade1686f9d1e8f.svg",
+    "static/media/Group_8.svg": "/static/media/Group_8.067c264ccdac4f266aa80acd41571cff.svg",
+    "index.html": "/index.html",
+    "main.8f00391a.css.map": "/static/css/main.8f00391a.css.map",
+    "main.11ab1a23.js.map": "/static/js/main.11ab1a23.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f00391a.css",
+    "static/js/main.11ab1a23.js"
+  ]
+}
